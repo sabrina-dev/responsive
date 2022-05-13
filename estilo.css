@@ -1,0 +1,53 @@
+#as {
+  border: solid;
+  background-image:linear-gradient(to top,rgb(1, 44, 1), green,rgba(23, 212, 54, 0.589));
+  margin-top: 0px;
+  padding-top: 3px;
+  padding-bottom: 0px;
+}
+
+h1 {text-align:center;
+    font-family: 'Oswald', sans-serif;
+    letter-spacing:-3px;color:white;
+    margin-bottom: 10px;
+}
+
+.text { text-align: center;color:white;margin-bottom: 30px;}
+
+* {margin: 0px 1px 1px 0px;padding: 0 ;}
+
+.menu li{ 
+  padding: 10px 10px 10px 0px;
+  list-style:none;
+  display:inline-block;
+ /*float: left;
+ text-decoration:none;*/
+
+ }
+ .menu li a{text-decoration: none;
+color: rgb(47, 194, 67);}
+.menu li a:hover
+{background-color: rgb(39, 170, 39);
+color: rgb(2, 56, 2);
+padding: 10px;margin-bottom:0px;
+border-radius: 6px;}
+
+ h2{font-family: android,times, serif;color:green;margin: 10px;}
+ h3{font-family: android, times,serif;color:green;background-image:linear-gradient(to right, rgba(35, 223, 76, 0.438), white);margin: 10px;margin-bottom: 20px;margin-top: 20px;}
+
+ a.p1{
+   text-decoration: none;
+   color: green;
+   font-weight: bolder;
+  }
+  p: {
+    word-spacing:6px;
+    margin: 10px;
+    
+  }
+  .p2{
+    background-color: rgba(35, 189, 35, 0.397);
+    color: rgb(1, 94, 1); font-weight:bolder;
+
+  }
+
